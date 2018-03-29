@@ -1,4 +1,4 @@
-This is a simple program created to interface with a series 6000 SCI hipot tester over a USB to serial adapter. These units were formerly known as 'Slaughter' brand testers.
+This is a simple program created to interface with a series 6000 SCI hipot tester over a USB to serial (RS-232) adapter. These units were formerly known as 'Slaughter' brand testers.
 
 http://www.hipot.com/products/6000.aspx
 
